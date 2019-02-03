@@ -16,20 +16,27 @@
 title: Estíbaliz Parcero
 email: estibaliz@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Hi there! I'm Estíbaliz. Welcome to my home page.
+  I'm currently pursing a PhD in deep learning.
+  I'm passionate about dancing, swimming, reading, and my work!
+  Please, take a look to my blog to discover some of the things I do.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://esparig.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: LaPulsante
 github_username:  esparig
+linkedin_username: estibalizparcero
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
+  - jekyll-sitemap
+  - jekyll-seo-tag
+assets:
+  sources:
+    - assets/fonts
+    - assets/img
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
