@@ -54,4 +54,4 @@ As I said, I used GitHub as hosting, so I created my git repository. I chose the
 
 And that's all for today! I will continue to improve this website, and posting new things soon. I hope you find this post useful!! See you in a while, crocodile!!
 
-![crocodile](https://media.giphy.com/media/3sbmGcz7jVEfdqHB3z/giphy.gif)
+<a href="https://www.lagacetadesalamanca.es/salamanca/2016/12/07/decimos-cocodrilo-crocodilo/191673.html" target="_blank">![crocodile](https://media.giphy.com/media/3sbmGcz7jVEfdqHB3z/giphy.gif)</a>
