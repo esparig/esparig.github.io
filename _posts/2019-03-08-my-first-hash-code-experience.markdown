@@ -58,4 +58,6 @@ We noted some things to improve for future competitions:
 - Be organized and prepared, you want to save time in the beginning to focus on your program. For example, by having pre-built utilities to handle the input and to parse solutions.
 - And of course, enjoy! Be relaxed and happy during the competition.
 
+In case you are courious, [here](https://github.com/jitterbugs/hashcode2019) you can find our GitHub repository with the solutions we tried.
+
 Hope you liked my post! See you soon!
