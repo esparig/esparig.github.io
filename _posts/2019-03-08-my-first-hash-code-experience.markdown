@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My first HashCode experience"
+title:  "My first Hash Code experience"
 date:   2019-03-08 18:22:23 +0100
 categories: [code, google]
 ---
@@ -28,15 +28,15 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 Hi everyone!
 
-I’m writing today to tell you about my first experience with HashCode coding competition.
+I’m writing today to tell you about my first experience with [Hash Code](https://codingcompetitions.withgoogle.com/hashcode) coding competition.
 
-HashCode is a team coding competition organized by Google. You can form a team up to 4 people, use whatever language you are more comfortable (even more than one!) and stretch your neurons to solve a problem.
+Hash Code is a team coding competition organized by Google. You can form a team up to 4 people, use whatever language you are more comfortable (even more than one!) and stretch your neurons to solve a problem.
 
 ![google](../../../../../assets/img/gifs/google.gif)
 
 Some friends and I have been working on our coding skills for a while using coding platforms like Hackerrank, Leetcode, Topcoder… I think it is a great way to learn new things and to stay in shape.
 
-So, when I heard about the Hashcode Competition I suggested them to participate and everyone was on board. We were very excited!
+So, when I heard about the Hash Code competition I suggested them to participate and everyone was on board. We were very excited!
 
 We met two times before the day of the competition. We tried the example exercise :pizza: :pizza: :pizza: in order to be familiar with the environment. Also, we talked about how to confront the problem. We decided the following:
 1. First of all, make a brainstorming. Give several ideas to solve the problem.
@@ -51,7 +51,7 @@ We achieved the 1,290th position out of 6,671 participants, not so bad for our f
 
 ![diploma](../../../../../assets/img/hashcode2019diploma.png)
 
-The whole HashCode experience was very enriching. The fact that the problem to solve is NP-hard (Wikipedia), and you must aim for a good enough solution, not only look for the best algorithm and data structure, is challenging and exciting.
+The whole Hash Code experience was very enriching. The fact that the problem to solve is [NP-hard](https://en.wikipedia.org/wiki/NP-hardness), and you must aim for a good enough solution, not only look for the best algorithm and data structure, is challenging and exciting.
 
 We noted some things to improve for future competitions:
 - Speed up coding skills.
