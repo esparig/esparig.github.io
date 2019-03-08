@@ -38,7 +38,7 @@ Some friends and I have been working on our coding skills for a while using codi
 
 So, when I heard about the Hashcode Competition I suggested them to participate and everyone was on board. We were very excited!
 
-We met two times before the day of the competition. We tried the example exercise :pizza: in order to be familiar with the environment. Also, we talked about how to confront the problem. We decided the following:
+We met two times before the day of the competition. We tried the example exercise :pizza: :pizza: :pizza: in order to be familiar with the environment. Also, we talked about how to confront the problem. We decided the following:
 1. First of all, make a brainstorming. Give several ideas to solve the problem.
 2. Secondly, begin with the implementation of a score program to be able to measure our solutions without needing to upload the solution to the HashCode platform.
 3. Lastly, implement solutions starting from greedy and pseudo-greedy approaches, and improve it from there.
