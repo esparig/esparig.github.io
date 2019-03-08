@@ -28,7 +28,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 Hi there! This is my first post! Welcome to everyone...
 
-![hurra!](https://i.giphy.com/media/3ornjVEDmHQqVgF0Ri/giphy.gif)
+![hurra!](../../../../assets/img/gifs/hurra.gif) <!-- https://giphy.com/casumo -->
 
 ...I'm starting the blog posting about how I built this webpage. However, this doesn't intend to be a follow along tutorial. For that there are already a lot of resources, and here I will give you some links to them.
 
@@ -54,4 +54,4 @@ As I said, I used GitHub as hosting, so I created my git repository. I chose the
 
 And that's all for today! I will continue to improve this website, and posting new things soon. I hope you find this post useful!! See you in a while, crocodile!!
 
-<a href="https://www.lagacetadesalamanca.es/salamanca/2016/12/07/decimos-cocodrilo-crocodilo/191673.html" target="_blank">![crocodile](https://media.giphy.com/media/3sbmGcz7jVEfdqHB3z/giphy.gif)</a>
+<a href="https://www.lagacetadesalamanca.es/salamanca/2016/12/07/decimos-cocodrilo-crocodilo/191673.html" target="_blank">![crocodile](../../../../assets/img/gifs/crocodile.gif)</a> <!-- https://giphy.com/heyduggee/ -->
