@@ -2,11 +2,12 @@
   display: inline !important;
   max-width: 100% !important;
   max-height: 500px;
-  //height: auto !important;
-  //width: auto !important;
+  height: 20px !important;
+  width: 20px !important;
   margin: 0 auto;
   padding: 0.6em 0;
 }
+
 .post .post-content {
   img {
     display: block;
