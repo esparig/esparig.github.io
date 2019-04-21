@@ -1,5 +1,24 @@
+---
+Notes about first post:
 1. install Jekyll https://jekyllrb.com/docs/installation/
  -> I'm in windows, and I use the ubuntu subsystem
  -> if you are in windows, make sure you disable ipv6
 2. quickstart https://jekyllrb.com/docs/
 3. step by step tutorial https://jekyllrb.com/docs/step-by-step/01-setup/
+---
+Install emojis support:
+jemoji instructions: https://github.com/jekyll/jemoji
+bundle install
+this appeared to be necessary:
+  sudo apt-get install zlib1g-dev
+  sudo gem install nokogiri -v '1.10.1' --source 'https://rubygems.org/'
+bundle install
+
+Now to serve the page:
+  bundle exec jekyll serve
+---
+To reload the page in GitHub, we need to do an empty commit:
+git commit -m 'rebuild pages' --allow-empty
+git push origin master
+---
+Next post about Deep Learning https://www.youtube.com/watch?v=vq2nnJ4g6N0
