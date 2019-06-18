@@ -3,9 +3,13 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-Attempt 6
+Attempt 7
 
 {{ "adam!" | capitalize | prepend: "Hello " }}
+
+{% for project in site.projects %}
+  {{ project }}
+{% endfor %}
 
 {% for project in site.projects %}
   <div class="project">
