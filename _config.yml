@@ -53,4 +53,4 @@ assets:
 #   - vendor/gems/
 #   - vendor/ruby/
 collections:
-  projects:
+  - projects
