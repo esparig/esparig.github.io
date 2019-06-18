@@ -1,6 +1,6 @@
 ---
 title: YouClips
 image: /assets/img/icons/youclip.png
-url: 
+project_url: .
 ---
 In progress...
