@@ -1,7 +1,7 @@
 ---
-title: "YouClips"
+title: YouClips
 description: |
 	In progress...
-image: "/assets/img/icons/youclip.png"
-url: ""
+image: /assets/img/icons/youclip.png
+url: 
 ---
