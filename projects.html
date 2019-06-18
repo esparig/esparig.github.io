@@ -3,19 +3,16 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-Attempt 9
-
-{% for project in site.static_files %}
-  {% if project.path contains 'project' %}
-    {{ project }}
-    {{ project.description }}
-  {% endif %}
-{% endfor %}
+Attempt 10
 
 {% for project in site.projects %}
   <div class="project">
-    <p>{{ project.description }}</p>
+    <p>{{ project.title }}</p>
   </div>
+{% endfor %}
+
+{% for project in site.projects %}
+  {% include project-outline.html project=project %}
 {% endfor %}
 
 
