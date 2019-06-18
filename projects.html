@@ -3,16 +3,19 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-Attempt 10
-
-{% for project in site.projects %}
-  <div class="project">
-    <p>{{ project.title }}</p>
-  </div>
-{% endfor %}
-
-{% for project in site.projects %}
-  {% include project-outline.html project=project %}
-{% endfor %}
-
+<div class="projects">
+  {% for project in site.projects %}
+    <div class="project border-bottom border-light-gray circle-line">
+      <div class="col sm-col-4">
+        <div class="image">
+          <img src="{{project.image}}" alt="{{project.title}}" />
+        </div>
+      </div>
+      <div class="col sm-col-8">
+        <h2>{{ include.project.title }}</h2>
+        <p class="left-align">{{ include.project.description }}</p>
+      </div>
+    </div>
+  {% endfor %}
+</div>
 
