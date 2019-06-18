@@ -5,6 +5,11 @@ permalink: /projects/
 ---
 <div class="projects">
   {% for project in site.projects %}
+    {{ project.title }}
+    {{ project.description }}
+    {{ project.image }}
+    {{ project.url }}
+
     <div class="project border-bottom border-light-gray circle-line">
       <div class="col sm-col-4">
         <div class="image">
