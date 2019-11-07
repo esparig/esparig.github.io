@@ -14,11 +14,18 @@ this appeared to be necessary:
   sudo gem install nokogiri -v '1.10.1' --source 'https://rubygems.org/'
 bundle install
 
+Sometimes:
+bundle update
+
 Now to serve the page:
   bundle exec jekyll serve
+
+If it doesn't work try:
+  bundle exec jekyll build
 ---
 To reload the page in GitHub, we need to do an empty commit:
 git commit -m 'rebuild pages' --allow-empty
 git push origin master
 ---
 Next post about Deep Learning https://www.youtube.com/watch?v=vq2nnJ4g6N0
+---
