@@ -32,4 +32,4 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 # Load emojis
 gem 'jemoji'
 
-gem 'nokogiri', '~> 1.10', '>= 1.10.5'
+gem 'nokogiri', '~> 1.10'
